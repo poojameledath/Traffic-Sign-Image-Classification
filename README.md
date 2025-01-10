@@ -145,7 +145,7 @@ To assess the stability and generalization of the model, we perform **10-fold cr
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/poojameledath/Traffic-Sign-Image-Classification.git]
+   git clone https://github.com/poojameledath/Traffic-Sign-Image-Classification.git
 
 ## Acknowledgments
 Special thanks to my team members for their collaboration and contributions throughout this project. This work was a collective effort, and I truly appreciate everyone’s involvement and dedication.
